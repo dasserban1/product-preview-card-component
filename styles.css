@@ -75,7 +75,7 @@ input {
 }
 input {
     width: 100%;
-    background-image: url(/images/icon-cart.svg);
+    background-image: url(images/icon-cart.svg);
     background-repeat: no-repeat;
     background-position: 30% 50%;
     color:  hsl(0, 0%, 100%);
