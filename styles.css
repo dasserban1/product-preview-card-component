@@ -87,7 +87,7 @@ input {
 input:hover {
     cursor: pointer;
     background-color: hsl(158, 49%, 20%);
-};
+}
 
 h1 {
     line-height: 1.2;
